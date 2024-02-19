@@ -25,4 +25,4 @@
 
 **Инструменты:**
 
-Python, Pandas, Matplotlib, Seaborn
+Python, Pandas, Matplotlib, Seaborn, Power BI
