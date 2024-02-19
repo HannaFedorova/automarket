@@ -18,6 +18,10 @@
 
 •	анализ позиций Mercur Auto.
 
+**Итог проекта:**
+- разработан дашборд в Power BI
+  https://app.powerbi.com/groups/me/reports/198b5787-b8d4-4055-a1f2-d269b333c66c/ReportSection?experience=power-bi
+
 
 **Инструменты:**
 
