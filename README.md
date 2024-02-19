@@ -19,8 +19,8 @@
 •	анализ позиций Mercur Auto.
 
 **Итог проекта:**
-- разработан дашборд в Power BI
-  https://app.powerbi.com/groups/me/reports/198b5787-b8d4-4055-a1f2-d269b333c66c/ReportSection?experience=power-bi
+
+[Дашборд "Анализ продаж автомобилей в Казахстане в 2019 году"](https://app.powerbi.com/groups/me/reports/198b5787-b8d4-4055-a1f2-d269b333c66c/ReportSection?experience=power-bi)
 
 
 **Инструменты:**
